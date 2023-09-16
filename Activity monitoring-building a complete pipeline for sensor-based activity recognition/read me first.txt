@@ -1,0 +1,6 @@
+After extracting the ZIP file:
+
+Place the testing folder, training folder, and model.py file in the same directory.
+Open the directory containing these files in a code editor like Visual Studio Code.
+Run the model.py file by executing it.
+The program will start running.
